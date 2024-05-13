@@ -40,11 +40,6 @@ small {font-size: 0.750rem;}
 }
 
 .first:hover {
-    /* Bussin
     underline: single;
     underline-color: white;
-    */
-
-    text-decoration: underline;
-    text-decoration-style: double;
 }
