@@ -35,11 +35,11 @@ h5 {font-size: 1.333rem;}
 small {font-size: 0.750rem;}
 
 
-.first {
+first {
     underline: none;
 }
 
-.first:hover {
+first:hover {
     underline: single;
     underline-color: white;
 }
